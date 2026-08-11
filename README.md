@@ -40,7 +40,7 @@ Este repositório reúne os conceitos práticos de Orientação a Objetos e estr
 
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/yasminandrade8/NOME_DO_REPOSITTORIO.git](https://github.com/yasminandrade8/NOME_DO_REPOSITTORIO.git)
+   git clone [https://github.com/yasminandrade8/TecProgramacao.git](https://github.com/yasminandrade8/TecProgramacao.git)
    
 2. Abra a pasta do projeto na sua IDE de preferência.
 
