@@ -20,7 +20,7 @@ Este repositório reúne os conceitos práticos de Orientação a Objetos e estr
 | :--- | :--- | :--- |
 | **01. Estrutura Condicional e Loopings** | Controle de fluxo com `if/else`, `switch` e laços de repetição (`for`, `while`) | [Acessar](./01-estrutura-condicional-e-loopings/src) |
 | **02. Arrays** | Manipulação de vetores, matrizes e coleções de dados unidimensionais e multidimensionais | [Acessar](./02-arrays/src) |
-| **03. Classes** | Definição do molde de objetos, encapsulamento inicial e organização do estado e comportamento da classe. | [Acessar](./03-classes/src) |
+| **03. Classes** | Definição do molde de objetos, encapsulamento inicial e organização do estado e comportamento da classe. | [Acessar](./03-classes) |
 | **04. Introdução à POO** | Conceitos de classes, objetos, atributos e métodos | [Acessar](./04-introdução-poo/src) |
 | **05. Arquivos** | Leitura, escrita e manipulação de arquivos de texto e dados em Java | [Acessar](./05-arquivos/src) |
 | **06. MVC** | Padrão de arquitetura Model-View-Controller para separação de responsabilidades | [Acessar](./06-model-view-controller/src) |
