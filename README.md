@@ -18,10 +18,13 @@ Este repositório reúne os conceitos práticos de Orientação a Objetos e estr
 
 | Módulo | Descrição / Tópicos | Link da Pasta |
 | :--- | :--- | :--- |
-| **01. Arrays** | Manipulação de vetores e matrizes em Java | [Acessar](./01-arrays) |
-| **02. Introdução à POO** | Conceitos de classes, objetos, atributos e métodos | [Acessar](./02-introdução-poo) |
-| **03. Construtores** | Padrão Builder e inicialização de objetos | [Acessar](./Construtor%20(Builder)) |
-| **04. Herança** | Reutilização de código e polimorfismo | [Acessar](./Herança) |
+| **01. Estrutura Condicional e Loopings** | Controle de fluxo com `if/else`, `switch` e laços de repetição (`for`, `while`) | [Acessar](./01-estrutura-condicional-e-loopings) |
+| **02. Arrays** | Manipulação de vetores, matrizes e coleções de dados unidimensionais e multidimensionais | [Acessar](./02-arrays) |
+| **03. Classes** | Definição do molde de objetos, encapsulamento inicial e organização do estado e comportamento da classe. | [Acessar](./03-classes) |
+| **04. Introdução à POO** | Conceitos de classes, objetos, atributos e métodos | [Acessar](./04-introdução-poo) |
+| **05. Arquivos** | Leitura, escrita e manipulação de arquivos de texto e dados em Java | [Acessar](./05-arquivos) |
+| **06. MVC** | Padrão de arquitetura Model-View-Controller para separação de responsabilidades | [Acessar](./06-model-view-controller) |
+
 
 ---
 
