@@ -38,3 +38,11 @@ Este repositório reúne os conceitos práticos de Orientação a Objetos e estr
 1. Clone este repositório:
    ```bash
    git clone [https://github.com/yasminandrade8/NOME_DO_REPOSITTORIO.git](https://github.com/yasminandrade8/NOME_DO_REPOSITTORIO.git)
+   
+2. Abra a pasta do projeto na sua IDE de preferência.
+
+3. Navegue até a pasta do módulo desejado e execute o arquivo .java.
+
+## 👩‍💻 Autora
+
+Feito com 💜 por Yasmin Andrade 👋 Entre em contato pelo LinkedIn!
