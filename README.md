@@ -18,8 +18,8 @@ Este repositório reúne os conceitos práticos de Orientação a Objetos e estr
 
 | Módulo | Descrição / Tópicos | Link da Pasta |
 | :--- | :--- | :--- |
-| **01. Arrays** | Manipulação de vetores e matrizes em Java | [Acessar](./Arrays) |
-| **02. Introdução à POO** | Conceitos de classes, objetos, atributos e métodos | [Acessar](./Introdução%20POO) |
+| **01. Arrays** | Manipulação de vetores e matrizes em Java | [Acessar](./01-arrays) |
+| **02. Introdução à POO** | Conceitos de classes, objetos, atributos e métodos | [Acessar](./02-introdução-poo) |
 | **03. Construtores** | Padrão Builder e inicialização de objetos | [Acessar](./Construtor%20(Builder)) |
 | **04. Herança** | Reutilização de código e polimorfismo | [Acessar](./Herança) |
 
