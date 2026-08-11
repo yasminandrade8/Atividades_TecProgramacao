@@ -48,4 +48,4 @@ Este repositório reúne os conceitos práticos de Orientação a Objetos e estr
 
 ## 👩‍💻 Autora
 
-Feito com 💜 por Yasmin Andrade 👋 Entre em contato pelo [LinkedIn!](in/yasmin-rodrigues-de-andrade)
+Feito com 💜 por Yasmin Andrade 👋 Entre em contato pelo [LinkedIn!](www.linkedin.com/in/yasmin-rodrigues-de-andrade)
